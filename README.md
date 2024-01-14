@@ -2,7 +2,7 @@
 # Media Player using HTML
 
 
-# Media Player Readme
+# Media Player 
 
 # Overview
 
