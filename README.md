@@ -7,7 +7,7 @@ Welcome to our Media Player! This versatile application is designed for seamless
 
 # Features :
 
-1) Audio and Video Playback:
+1)Audio and Video Playback:
 
 Support for a variety of file formats, including MP3, WAV, FLAC, MP4, MKV, and more.
 Smooth playback for high-definition videos.
